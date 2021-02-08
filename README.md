@@ -25,7 +25,7 @@ Peg > 1 BTC (XMR, LTC, DOT etc.)
 - After farming period — additional issuance is distributed among holders depending on their share
 
 Peg < 1 BTC (XMR, LTC, DOT etc.)
-
+ 
 - Bonds issuance
 - If the bond mechanism does not cover the gap, a stabilization fund is used
 
